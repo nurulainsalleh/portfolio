@@ -1,2 +1,2 @@
 # Personal portfolio
-This is ain's portfolio personal portfolio website which is fully developed by me for Individual assignment purpose
+This is Ain's personal portfolio website, which I developed entirely for an individual assignment. The site is built primarily using HTML and CSS, with some JavaScript functionality implemented to enhance specific features and interactivity.
